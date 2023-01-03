@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charith GR</h1>
 <h3 align="center">A passionate JAVA Backend developer</h3>
  <p>I'm a Aspiring Java Backend Developer.Goal Oriented person with a solid commitment to solutions and problem-solving.Highly adept at both independent and collaborative projects.</p>
-- 👨‍💻 All of my projects are available at [Portfolio](https://charithgr.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://charithgr.github.io/">Portfolio</a>
 
 - 📫 How to reach me **charithgr2@gmail.com**
 
