@@ -11,6 +11,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/charith-g-r-667951243/" target="blank"><img align="center" src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedln" height="25" width="75" /></a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql)](https://skillicons.dev)
+
+
+
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charithgr&show_icons=true&locale=en&layout=compact" alt="charithgr" /></p>
