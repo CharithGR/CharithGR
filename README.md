@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Charith GR <img align="right" src="./gg.gif" alt="charithgr" width="300px" height="250px"/></h1>
-<h3 align="center">A passionate JAVA Backend developer</h3>
+<h1 align="center">Hi 👋, I'm Charith GR </h1>
+<h2 align="center">A passionate JAVA Backend developer<img align="right" src="./gg.gif" alt="charithgr" width="300px" height="250px"/></h2>
  <p>I'm a Aspiring Java Backend Developer.Goal Oriented person with a solid commitment to solutions and problem-solving.Highly adept at both independent and collaborative projects.</p>
 
  - 🌱 I’m currently learning Java,SpringBoot.
@@ -13,11 +13,12 @@
 </p>
 <h3 align="left">Skills And Tools</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,github,vscode" />
+ 
 
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charithgr&show_icons=true&locale=en&layout=compact" width="45%" alt="charithgr" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=charithgr&show_icons=true&locale=en"  width="45%" alt="charithgr" /></p>
-<br><br>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charithgr&" width="55%" alt="charithgr" /></p>
